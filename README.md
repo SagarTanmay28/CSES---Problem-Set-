@@ -36,7 +36,7 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 
 | # | Problem | Core Technique / Tag | Difficulty |
 |---|---|---|---|
-| 1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | Simulation | 🟢 Easy |
+| 1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) ✅| Simulation | 🟢 Easy |
 | 2 | [Missing Number](https://cses.fi/problemset/task/1083) | Math / Simulation | 🟢 Easy |
 | 3 | [Repetitions](https://cses.fi/problemset/task/1069) | String Scan | 🟢 Easy |
 | 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | Greedy | 🟢 Easy |
