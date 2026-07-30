@@ -37,16 +37,16 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 | # | Problem | Core Technique / Tag | Difficulty |
 |---|---|---|---|
 | 1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) ✅| Simulation | 🟢 Easy |
-| 2 | [Missing Number](https://cses.fi/problemset/task/1083) | Math / Simulation | 🟢 Easy |
-| 3 | [Repetitions](https://cses.fi/problemset/task/1069) | String Scan | 🟢 Easy |
-| 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | Greedy | 🟢 Easy |
-| 5 | [Permutations](https://cses.fi/problemset/task/1070) | Constructive | 🟢 Easy |
-| 6 | [Number Spiral](https://cses.fi/problemset/task/1071) | Math Pattern | 🟢 Easy |
+| 2 | [Missing Number](https://cses.fi/problemset/task/1083) ✅| Math / Simulation | 🟢 Easy |
+| 3 | [Repetitions](https://cses.fi/problemset/task/1069) ✅| String Scan | 🟢 Easy |
+| 4 | [Increasing Array](https://cses.fi/problemset/task/1094) ✅| Greedy | 🟢 Easy |
+| 5 | [Permutations](https://cses.fi/problemset/task/1070) ✅| Constructive | 🟢 Easy |
+| 6 | [Number Spiral](https://cses.fi/problemset/task/1071) 🤷‍♂️| Math Pattern | 🟢 Easy |
 | 7 | [Two Knights](https://cses.fi/problemset/task/1072) | Combinatorics | 🟢 Easy |
-| 8 | [Two Sets](https://cses.fi/problemset/task/1092) | Math / Constructive | 🟢 Easy |
-| 9 | [Bit Strings](https://cses.fi/problemset/task/1617) | Combinatorics / Modpow | 🟢 Easy |
-| 10 | [Trailing Zeros](https://cses.fi/problemset/task/1618) | Math (Factorial) | 🟢 Easy |
-| 11 | [Coin Piles](https://cses.fi/problemset/task/1754) | Math / Case Analysis | 🟢 Easy |
+| 8 | [Two Sets](https://cses.fi/problemset/task/1092) ✅| Math / Constructive | 🟢 Easy |
+| 9 | [Bit Strings](https://cses.fi/problemset/task/1617) ✅| Combinatorics / Modpow | 🟢 Easy |
+| 10 | [Trailing Zeros](https://cses.fi/problemset/task/1618) ✅| Math (Factorial) | 🟢 Easy |
+| 11 | [Coin Piles](https://cses.fi/problemset/task/1754)✅ | Math / Case Analysis | 🟢 Easy |
 | 12 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | Greedy / Counting | 🟢 Easy |
 | 13 | [Gray Code](https://cses.fi/problemset/task/2205) | Constructive Recursion | 🟡 Medium |
 | 14 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | Recursion | 🟢 Easy |
