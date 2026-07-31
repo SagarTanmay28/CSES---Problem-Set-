@@ -65,17 +65,17 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 
 | # | Problem | Core Technique / Tag | Difficulty |
 |---|---|---|---|
-| 1 | [Distinct Numbers](https://cses.fi/problemset/task/1621) | Sorting / Set | 🟢 Easy |
-| 2 | [Apartments](https://cses.fi/problemset/task/1084) | Greedy / Two Pointer | 🟢 Easy |
-| 3 | [Ferris Wheel](https://cses.fi/problemset/task/1090) | Greedy / Two Pointer | 🟢 Easy |
-| 4 | [Concert Tickets](https://cses.fi/problemset/task/1091) | Multiset / Binary Search | 🟡 Medium |
-| 5 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | Sweep Line | 🟢 Easy |
+| 1 | [Distinct Numbers](https://cses.fi/problemset/task/1621) ✅| Sorting / Set | 🟢 Easy |
+| 2 | [Apartments](https://cses.fi/problemset/task/1084) ✅| Greedy / Two Pointer | 🟢 Easy |
+| 3 | [Ferris Wheel](https://cses.fi/problemset/task/1090) ✅| Greedy / Two Pointer | 🟢 Easy |
+| 4 | [Concert Tickets](https://cses.fi/problemset/task/1091) ✅| Multiset / Binary Search | 🟡 Medium |
+| 5 | [Restaurant Customers](https://cses.fi/problemset/task/1619) ✅| Sweep Line | 🟢 Easy |
 | 6 | [Movie Festival](https://cses.fi/problemset/task/1629) | Greedy / Sorting | 🟢 Easy |
-| 7 | [Sum of Two Values](https://cses.fi/problemset/task/1640) | Two Pointer / Hashing | 🟢 Easy |
-| 8 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Kadane’s Algorithm | 🟢 Easy |
-| 9 | [Stick Lengths](https://cses.fi/problemset/task/1074) | Median / Greedy | 🟢 Easy |
-| 10 | [Missing Coin Sum](https://cses.fi/problemset/task/2183) | Greedy | 🟡 Medium |
-| 11 | [Collecting Numbers](https://cses.fi/problemset/task/2216) | Greedy | 🟢 Easy |
+| 7 | [Sum of Two Values](https://cses.fi/problemset/task/1640) ✅| Two Pointer / Hashing | 🟢 Easy |
+| 8 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) ✅| Kadane’s Algorithm | 🟢 Easy |
+| 9 | [Stick Lengths](https://cses.fi/problemset/task/1074) ✅| Median / Greedy | 🟢 Easy |
+| 10 | [Missing Coin Sum](https://cses.fi/problemset/task/2183) ✅| Greedy | 🟡 Medium |
+| 11 | [Collecting Numbers](https://cses.fi/problemset/task/2216) ✅| Greedy | 🟢 Easy |
 | 12 | [Collecting Numbers II](https://cses.fi/problemset/task/2217) | Greedy + Updates | 🟡 Medium |
 | 13 | [Playlist](https://cses.fi/problemset/task/1141) | Two Pointer / Set | 🟢 Easy |
 | 14 | [Towers](https://cses.fi/problemset/task/1073) | Greedy / Multiset | 🟡 Medium |
