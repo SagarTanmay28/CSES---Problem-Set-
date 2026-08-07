@@ -108,10 +108,10 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 | 1 | [Dice Combinations](https://cses.fi/problemset/task/1633) ✅| 1D DP | 🟢 Easy |
 | 2 | [Minimizing Coins](https://cses.fi/problemset/task/1634) ✅| 1D DP | 🟢 Easy |
 | 3 | [Coin Combinations I](https://cses.fi/problemset/task/1635) ✅| 1D DP (Ordered) | 🟢 Easy |
-| 4 | [Coin Combinations II](https://cses.fi/problemset/task/1636) ✅| 1D DP (Unordered) | 🟢 Easy |
+| 4 | [Coin Combinations II](https://cses.fi/problemset/task/1636) 🤷‍♂️✅| 1D DP (Unordered) | 🟢 Easy |
 | 5 | [Removing Digits](https://cses.fi/problemset/task/1637) ✅| 1D DP | 🟢 Easy |
 | 6 | [Grid Paths I](https://cses.fi/problemset/task/1638) ✅| 2D DP | 🟢 Easy |
-| 7 | [Book Shop](https://cses.fi/problemset/task/1158) ✅| 0/1 Knapsack | 🟢 Easy |
+| 7 | [Book Shop](https://cses.fi/problemset/task/1158) 🤷‍♂️✅| 0/1 Knapsack | 🟢 Easy |
 | 8 | [Array Description](https://cses.fi/problemset/task/1746) | DP with Constraints | 🟡 Medium |
 | 9 | [Counting Towers](https://cses.fi/problemset/task/2413) | DP on Columns | 🟡 Medium |
 | 10 | [Edit Distance](https://cses.fi/problemset/task/1639) | 2D String DP | 🟢 Easy |
