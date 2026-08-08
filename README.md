@@ -114,8 +114,8 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 | 7 | [Book Shop](https://cses.fi/problemset/task/1158) 🤷‍♂️✅| 0/1 Knapsack | 🟢 Easy |
 | 8 | [Array Description](https://cses.fi/problemset/task/1746) | DP with Constraints | 🟡 Medium |
 | 9 | [Counting Towers](https://cses.fi/problemset/task/2413) | DP on Columns | 🟡 Medium |
-| 10 | [Edit Distance](https://cses.fi/problemset/task/1639) | 2D String DP | 🟢 Easy |
-| 11 | [Longest Common Subsequence](https://cses.fi/problemset/task/3403) | 2D String DP | 🟢 Easy |
+| 10 | [Edit Distance](https://cses.fi/problemset/task/1639) ✅| 2D String DP | 🟢 Easy |
+| 11 | [Longest Common Subsequence](https://cses.fi/problemset/task/3403) ✅| 2D String DP | 🟢 Easy |
 | 12 | [Rectangle Cutting](https://cses.fi/problemset/task/1744) | 2D DP | 🟡 Medium |
 | 13 | [Minimal Grid Path](https://cses.fi/problemset/task/3359) | Greedy / DP on Grid | 🟡 Medium |
 | 14 | [Money Sums](https://cses.fi/problemset/task/1745) | Subset Sum | 🟢 Easy |
