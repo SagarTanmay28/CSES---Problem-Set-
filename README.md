@@ -88,12 +88,12 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 | 21 | [Nested Ranges Count](https://cses.fi/problemset/task/2169) | BIT / Sorting | 🟡 Medium |
 | 22 | [Room Allocation](https://cses.fi/problemset/task/1164) | Greedy + Priority Queue | 🟡 Medium |
 | 23 | [Factory Machines](https://cses.fi/problemset/task/1620) | Binary Search on Answer | 🟡 Medium |
-| 24 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) | Greedy / Sorting | 🟢 Easy |
+| 24 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) ✅| Greedy / Sorting | 🟢 Easy |
 | 25 | [Reading Books](https://cses.fi/problemset/task/1631) | Greedy | 🟢 Easy |
 | 26 | [Sum of Three Values](https://cses.fi/problemset/task/1641) | Two Pointer | 🟢 Easy |
 | 27 | [Sum of Four Values](https://cses.fi/problemset/task/1642) | Hashing | 🟡 Medium |
 | 28 | [Nearest Smaller Values](https://cses.fi/problemset/task/1645) | Monotonic Stack | 🟡 Medium |
-| 29 | [Subarray Sums I](https://cses.fi/problemset/task/1660) | Prefix Sum / Hashing | 🟢 Easy |
+| 29 | [Subarray Sums I](https://cses.fi/problemset/task/1660) ✅| Prefix Sum / Hashing | 🟢 Easy |
 | 30 | [Subarray Sums II](https://cses.fi/problemset/task/1661) | Prefix Sum / Hashing | 🟡 Medium |
 | 31 | [Subarray Divisibility](https://cses.fi/problemset/task/1662) | Prefix Sum / Hashing | 🟡 Medium |
 | 32 | [Distinct Values Subarrays II](https://cses.fi/problemset/task/2428) | Two Pointer | 🟡 Medium |
@@ -122,7 +122,7 @@ A companion checklist for [cses.fi/problemset](https://cses.fi/problemset/list/)
 | 15 | [Removal Game](https://cses.fi/problemset/task/1097) | Interval DP / Game Theory | 🟡 Medium |
 | 16 | [Two Sets II](https://cses.fi/problemset/task/1093) | Subset Sum Counting | 🟡 Medium |
 | 17 | [Mountain Range](https://cses.fi/problemset/task/3314) | DP / Stack | 🟡 Medium |
-| 18 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) | LIS (Patience Sorting) | 🟡 Medium |
+| 18 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) ✅| LIS (Patience Sorting) | 🟡 Medium |
 | 19 | [Projects](https://cses.fi/problemset/task/1140) | DP + Binary Search | 🟡 Medium |
 | 20 | [Elevator Rides](https://cses.fi/problemset/task/1653) | Bitmask DP | 🔴 Hard |
 | 21 | [Counting Tilings](https://cses.fi/problemset/task/2181) | Broken Profile DP | 🔴 Hard |
